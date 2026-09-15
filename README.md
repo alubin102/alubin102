@@ -66,9 +66,3 @@ Mes centres d'intérêt actuels :
 
 <br/>
 
-
-![footer](https://img.shields.io/badge/-0D1117?style=for-the-badge&logoColor=white&color=0D1117)
-
-<sub>Merci de votre visite 👋</sub>
-
-</div>
