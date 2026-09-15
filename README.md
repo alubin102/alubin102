@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Antonin%20Lubin&fontSize=45&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20Backend%20%26%20Architectures%20Applicatives&descAlignY=55&descSize=18&descColor=8B949E" width="100%"/>
+# Antonin Lubin
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Etudiant+en+informatique;Conception+d'APIs+robustes;Conteneurisation+%26+environnements+Linux;Code+propre+%2C+fiable+%2C+maintenable" alt="Typing SVG" />
+### Développeur Backend & Architectures Applicatives
+
+![Static Badge](https://img.shields.io/badge/Étudiant%20en%20informatique-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF)
+![Static Badge](https://img.shields.io/badge/Conception%20d'APIs%20robustes-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF)
+![Static Badge](https://img.shields.io/badge/Linux%20%26%20conteneurisation-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF)
 
 <br/>
 
@@ -85,6 +89,8 @@ Mes centres d'intérêt actuels :
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" width="100%"/>
+![footer](https://img.shields.io/badge/-0D1117?style=for-the-badge&logoColor=white&color=0D1117)
+
+<sub>Merci de votre visite 👋</sub>
 
 </div>
