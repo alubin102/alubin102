@@ -5,15 +5,11 @@
 ### Développeur Backend & Architectures Applicatives
 
 ![Static Badge](https://img.shields.io/badge/Étudiant%20en%20informatique-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF)
-![Static Badge](https://img.shields.io/badge/Conception%20d'APIs%20robustes-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF)
-![Static Badge](https://img.shields.io/badge/Linux%20%26%20conteneurisation-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/antonin-lubin)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:lubinantonin45@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=alubin102&style=for-the-badge&color=blueviolet&label=VUES+DU+PROFIL)
-
 </div>
 
 <br/>
@@ -24,10 +20,10 @@ Passionné par la **conception logicielle** et la création de solutions robuste
 
 Mes centres d'intérêt actuels :
 
-- 🔧 Concevoir des **API REST** solides et bien documentées
-- 📦 Maîtriser la **conteneurisation** (Docker) pour des déploiements reproductibles
-- 🐧 Évoluer efficacement en environnement **Linux / Bash**
-- 🔐 Explorer la gestion d'identité et d'accès avec **Keycloak**
+- Concevoir des **API REST** solides et bien documentées
+- Maîtriser la **conteneurisation** (Docker) pour des déploiements reproductibles
+- Évoluer efficacement en environnement **Linux / Bash**
+- Explorer la gestion d'identité et d'accès avec **Keycloak**
 
 <br/>
 
@@ -70,24 +66,6 @@ Mes centres d'intérêt actuels :
 
 <br/>
 
-## Statistiques GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alubin102&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alubin102&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alubin102&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alubin102&theme=tokyo-night&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=C9D1D9" width="95%"/>
-
-</div>
-
-<br/>
 
 ![footer](https://img.shields.io/badge/-0D1117?style=for-the-badge&logoColor=white&color=0D1117)
 
