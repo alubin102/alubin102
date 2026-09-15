@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👨‍💻 Développeur d'applications & Backend  
-### 🎓 Étudiant en informatique
+# Développeur d'applications & Backend  
+### Étudiant en informatique
 
 Passionné par la **conception logicielle** et la création de solutions robustes.  
 Je m'intéresse particulièrement aux **architectures d’API**, à la **conteneurisation** et aux environnements **Linux** pour construire des applications fiables, propres et maintenables.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ### Langages
 <p>
@@ -40,11 +40,11 @@ Je m'intéresse particulièrement aux **architectures d’API**, à la **contene
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[MON_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[MON_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[alubin102]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[alubin102]&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
@@ -52,14 +52,11 @@ Je m'intéresse particulièrement aux **architectures d’API**, à la **contene
 ## 🤝 Liens & Contact
 
 <p>
-  <a href="[URL_LINKEDIN]">
+  <a href="www.linkedin.com/in/antonin-lubin">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:[EMAIL_PRO]">
+  <a href="mailto:lubinantonin45@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="[URL_PORTFOLIO]">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
   </a>
 </p>
 
